@@ -1,3 +1,8 @@
+
+.selected {
+  fill: blueviolet;
+}
+
 .App {
   text-align: center;
 }
